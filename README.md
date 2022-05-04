@@ -7,7 +7,7 @@ Alessio Brendt / 19 / Bottrop, Germany
 [![Typescript](https://img.shields.io/badge/-typescript-007ACC.svg?logo=typescript&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/alessiobrendt?tab=repositories&q=&type=&language=c%2B%2B)
 [![Java](https://img.shields.io/badge/-java-B07219.svg?logo=java&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/alessiobrendt?tab=repositories&q=&type=&language=java)
 [![C++](https://img.shields.io/badge/-C++-00599C.svg?logo=C%2B%2B&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/alessiobrendt?tab=repositories&q=&type=&language=typescript)
-[![C#](https://img.shields.io/badge/-C#-00599C.svg?logo=C%2B%2B&logoColor=white&longCache=true&style=for-the-badge)](https://github.com/alessiobrendt?tab=repositories&q=&type=&language=c#)
+[![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)](https://github.com/alessiobrendt?tab=repositories&q=&type=&language=c#)
 
 [![Twitter](https://img.shields.io/badge/-@sqarix-03A9F4.svg?logo=twitter&logoColor=white&longCache=true&style=for-the-badge)](https://www.twitter.com/sqarix)
 
