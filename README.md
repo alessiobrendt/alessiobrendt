@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey, I'm Alessio 👋<br><br>🍃 Alessio Brendt / <br>🔭 21 years old<br>📍  Bottrop, Germany
+Hey, I'm Alessio 👋<br><br>🍃 Alessio Brendt / <br>🔭 22 years old<br>📍  Bottrop, Germany
 
 
 ## 🌐 Socials:
